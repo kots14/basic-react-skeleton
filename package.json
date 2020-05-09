@@ -1,0 +1,15 @@
+{
+  "name": "basic-react-skeleton",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
+  "author": "kots14",
+  "license": "ISC",
+  "homepage": "https://kots14.github.io/basic-react-skeleton",
+  "dependencies": {
+    "gh-pages": "^2.2.0"
+  }
+}
