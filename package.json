@@ -3,12 +3,12 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
+  "homepage": "https://kots14.github.io/basic-react-skeleton/",
   "scripts": {
     "deploy": "gh-pages -d dist"
   },
   "author": "kots14",
-  "license": "ISC",
-  "homepage": "https://kots14.github.io/",
+  "license": "ISC",  
   "dependencies": {
     "gh-pages": "^2.2.0"
   }
