@@ -8,7 +8,7 @@
   },
   "author": "kots14",
   "license": "ISC",
-  "homepage": "https://kots14.github.io/basic-react-skeleton",
+  "homepage": "https://kots14.github.io/",
   "dependencies": {
     "gh-pages": "^2.2.0"
   }
