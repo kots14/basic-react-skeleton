@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
-  "homepage": "https://kots14.github.io/basic-react-skeleton2",
+  "homepage": "https://kots14.github.io/basic-react-skeleton",
   "scripts": {
     "deploy": "gh-pages -d build"
   },
